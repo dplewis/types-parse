@@ -1,0 +1,23 @@
+{
+  "name": "types-parse",
+  "version": "0.0.1",
+  "author": "Diamond Lewis - https://github.com/dplewis",
+  "description": "This project watches parse for changes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dplewis/types-parse.git"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dplewis/types-parse/issues"
+  },
+  "engines": {
+    "node": "10"
+  },
+  "dependencies": {
+    "parse": "2.1.0"
+  }
+}
